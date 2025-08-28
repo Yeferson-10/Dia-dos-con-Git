@@ -80,7 +80,14 @@ img{
 }
 
 footer {
-
+    text-align: center;
+    background-color: blueviolet;
+    font-family: cursive;
+    color: aliceblue;
+}
+footer p{
+  margin: 5px;
+  padding: 5px;
 }
 /* ****************************** */
 /* responsive mayor a 480px */
